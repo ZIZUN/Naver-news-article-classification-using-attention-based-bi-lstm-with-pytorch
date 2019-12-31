@@ -1,0 +1,92 @@
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.g.resources
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\amd64\libzmq.dll
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\i386\libzmq.dll
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\amd64\libzmq.so
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\amd64\libzmq.dylib
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\ZeroMQ.dll
+C:\Users\Administrator\source\repos\Client\Client\bin\Debug\ZeroMQ.xml
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client_Content.g.cs
+C:\Users\Administrator\source\repos\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\amd64\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\i386\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\amd64\libzmq.so
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\amd64\libzmq.dylib
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\ZeroMQ.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\bin\Debug\ZeroMQ.xml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client_Content.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.g.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\새 폴더\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\amd64\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\i386\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\amd64\libzmq.so
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\amd64\libzmq.dylib
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\ZeroMQ.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\bin\Debug\ZeroMQ.xml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client_Content.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.g.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# 클라이언트 프로그램 - 뉴스기사분류기)\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\amd64\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\i386\libzmq.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\amd64\libzmq.so
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\amd64\libzmq.dylib
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\Client.exe.config
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\ZeroMQ.dll
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\bin\Debug\ZeroMQ.xml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client_Content.g.cs
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.g.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.exe
+C:\Users\Administrator\Desktop\인공지능심화교육프로젝트\Client(C# Program - News Classification)\Client\obj\Debug\Client.pdb
