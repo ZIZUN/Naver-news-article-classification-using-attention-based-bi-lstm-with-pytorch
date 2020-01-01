@@ -10,7 +10,7 @@
   * 모델 (Attention based Bi-LSTM)
   * 학습과정 (train)
 
-학습된 모델을 추출하여 Python Server와 Client(C# WPF)가 동기식 소켓통신을 통해 뉴스 분류를 이용할 수 있는 코드도 포함했습니다. 
+Python Server, Client(C# WPF)가 동기식 소켓통신을 하면서, Client가 뉴스를 보내면 Server에서 학습된 모델로 예측한 결과를 전송해주는 코드도 포함하였습니다.
 
   * Server(Python Server)
   * Client(C# WPF)
