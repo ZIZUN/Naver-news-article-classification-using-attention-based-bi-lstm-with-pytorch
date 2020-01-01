@@ -19,6 +19,7 @@
 
 형태소 단위로 분절한 뉴스기사에 Attention을 적용하여 높은 성능을 내는 것을 볼 수 있습니다.
 
- !testresult(./image/testresult.png)
+ ![testresult](./image/testresult.png)
 
  ![structure](./image/structure.jpg)
+
