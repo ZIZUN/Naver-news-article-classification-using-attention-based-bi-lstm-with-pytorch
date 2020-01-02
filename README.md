@@ -34,7 +34,7 @@ Python Server, Client(C# WPF)가 동기식 소켓통신을 하면서, Client가 뉴스를 보내면
 ### Table 3. Probability for each field when predict is wrong 
  ![test3](./image/test3.PNG)
 
-위 표는 Test에서 예측이 틀렸을 경우 정답에 대해 어떠한 예측을 했는지 분포를 나타낸 표이다. 생활/문화 분야는 사회 분야로 잘못 예측될 가능성이 높은 것으로 보인다.
+위 표는 Test에서 예측이 틀렸을 경우 정답에 대해 어떠한 예측을 했는지 분포를 나타낸 표입니다. 생활/문화 분야는 사회 분야로 잘못 예측될 가능성이 높은 것으로 보입니다.
 
 ## 참조
 
