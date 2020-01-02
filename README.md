@@ -20,10 +20,18 @@ Python Server, Client(C# WPF)가 동기식 소켓통신을 하면서, Client가 뉴스를 보내면
  ![structure](./image/structure.jpg)
 
 ## 실험 결과
+Table 1. Accuracy for test dataset
+ ![testresult](./image/testresult.PNG)
 
 형태소 단위로 분절한 뉴스기사에 Attention을 적용하여 높은 성능을 내는 것을 볼 수 있습니다.
 
- ![testresult](./image/testresult.PNG)
+Table 2. Accuracy for each field in the trained model
+ ![test2](./image/test2.PNG)
+
+Table 3. Probability for each field when predict is wrong 
+ ![test3](./image/test3.PNG)
+
+위 표는 Test에서 예측이 틀렸을 경우 정답에 대해 어떠한 예측을 했는지 분포를 나타낸 표이다. 생활/문화 분야는 사회 분야로 잘못 예측될 가능성이 높은 것으로 보인다.
 
 ## 참조
 
